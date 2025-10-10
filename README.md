@@ -4,52 +4,43 @@ I'm a Machine Learning Specialist and Mathematics Major at the University of Tor
 
 ---
 
-## 🔬 Current Roles
+## 🔬 Currently, I'm
 
 - 🎓 **VP Academics @ DS3 (Data Science & Statistics Society, UofT)**
   - Leading the ML Bootcamp (100+ participants)
   - Designing hands-on curriculum in model evaluation, tuning, and preprocessing
 
 - 🧠 **Co-Founder & ML Researcher @ AI4TO**
-  - Building cancer hotspot prediction models for immigrant communities in Toronto
-  - Designing a RAG-powered LLM for personalized cancer care access
+  - Build a **CoE-powered** agentic LLM for empathetic multilingual up-to-date support
+  - Beat **o4-mini, gemini-2.5 pro, Claude Opus 4** and **36** more **LLMs** on EQ-Bench
+  - Paper out soon!
+  
+- 📈 **Project Co-Lead @ UTMIST x NeuroTech**
+  - Building **DNNs** for signal processing and finger intent detection from **sEMG** signals for Post Stroke NeuroRehab.
+  
+- 🤖 **ML Research @ ConSens Lab**
+  - TD3 RL Agents for studying brain activity while grasping.
+
+- 🛡️ **AI Safety**
+   - Technical Fellow at **Toronto AI Safety Student Initiative.**
+   - Academic Associate at **UTMIST.**
+  
+- 💻📚🧠 **UR2PhD Fellow**
+   - AI for facilitating Oral Exams in CS Education under **Dr Brian Harrington.**
+
 
 ---
 
-## ⚙️ Projects
+**Spotlight Projects:**
 
-### 🧾 TARS.help
-**Mental Health NLP Assistant**  
-`TensorFlow • BiLSTM • HuggingFace • FAISS • Docker`
+This is some of the cool stuff I've worked on recently (I update this every month).
 
-- Trained 54M-param BiLSTM on 500K+ Reddit posts, achieving **85% accuracy**
-- Built suicide risk detector with **92% recall**
-- Integrated LLaMA-2 via Retrieval-Augmented Generation for session summaries
-
-### 🦠 EpiReady
-**Dengue Forecasting with ML + SEIR**  
-`TensorFlow • GRU/LSTM/TCN • Brazil Health Data`
-
-- Benchmarked traditional SEIR vs. ML models using 2010–2024 dengue data
-- Won **$500 Research Prize** as only first-year team among 50+ applicants
-
-### 🧠 Neural Net from Scratch
-**Minimal Dependencies. Maximum Insight.**  
-`NumPy • Matplotlib`
-
-- 3-layer NN trained on MNIST, 87% accuracy
-- Compared against TensorFlow with <2% difference but **97% less overhead**
-
----
-
-## 🛠 Skills
-
-**Languages**: Python, C/C++, SQL, R, Java  
-**Libraries**: TensorFlow, Scikit-learn, PyTorch, HuggingFace, NumPy, Matplotlib, Pandas, Seaborn, Statsmodels  
-**Tools**: Git, Jupyter, Docker, Unix/Linux
-
----
-
+- 🗺️ [**Navsense**]([(https://devpost.com/software/navsense-jp2e7z?ref_content=my-projects-tab&ref_feature=my_projects))
+  - Navigation you can feel, built with Expo, ElevenLabs x Gemini, ESP32 and Arduino
+  - **3rd Best** Overall Hack at **Hack the Valley X**
+- 🥼 [**Dr Clue and Team**]((https://github.com/Divy-1729/Dr-Clue-and-Team))
+  - AI Agents for Science Fair Literacy Week under **Dr Aarthi Ashok** and **Dr Andrew Mason**.
+  
 ## 🌐 Connect With Me
 
 📧 [divy.university@gmail.com](mailto:divy.university@gmail.com)  
