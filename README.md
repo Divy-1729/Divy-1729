@@ -9,7 +9,7 @@ I'm a Machine Learning Specialist and Mathematics Major at the University of Tor
 - 💼  **Quantitative Analyst @ RBC**
   - My first 9-5!
   - Analyzing data to get insights for Credit and Fraud Management
-  - Working on cool <redacted> stuff.
+  - Working on cool **redacted** stuff.
 
 - 🎓 **VP Academics @ DS3 (Data Science & Statistics Society, UofT)**
   - Leading the ML Bootcamp (100+ participants)
