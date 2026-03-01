@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Divy Wadhwani
 
-I'm a Machine Learning Specialist and Mathematics Major at the University of Toronto Scarborough, deeply passionate about applying AI to real-world social good. I’ve led educational bootcamps, built ML tools from scratch, and co-founded AI initiatives targeting public health.
+I'm a Machine Learning Specialist and Mathematics Major at the University of Toronto Scarborough, deeply passionate about applying AI to real-world social good.
 
 ---
 
