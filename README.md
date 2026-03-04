@@ -56,5 +56,6 @@ This is some of the cool stuff I've worked on recently (I update this every mont
 
 ---
 
-_> “Banana!" - Stuart the Minion_
+> "The mystery of human existence lies not in just staying alive, but in finding something to live for.”
+― Fyodor Dostoyevsky, The Brothers Karamazov
 
