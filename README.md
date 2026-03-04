@@ -44,12 +44,10 @@ I'm a Machine Learning Specialist and Mathematics Major at the University of Tor
 
 This is some of the cool stuff I've worked on recently (I update this every month).
 
-- 🗺️ [**Navsense**]([(https://devpost.com/software/navsense-jp2e7z?ref_content=my-projects-tab&ref_feature=my_projects))
-  - Navigation you can feel, built with Expo, ElevenLabs x Gemini, ESP32 and Arduino
-  - **3rd Best** Overall Hack at **Hack the Valley X**
-- 🥼 [**Dr Clue and Team**]((https://github.com/Divy-1729/Dr-Clue-and-Team))
-  - AI Agents for Science Fair Literacy Week under **Dr Aarthi Ashok** and **Dr Andrew Mason**.
-  
+- 🗺️ [**CoolDA**](https://github.com/Divy-1729/CoolDA)
+  - My first ever kernels in CUDA!
+  - I also wrote a short blog-ish post explaining how GPU parallelism blows my mind.
+    
 ## 🌐 Connect With Me
 
 📧 [divy.university@gmail.com](mailto:divy.university@gmail.com)  
@@ -60,6 +58,3 @@ This is some of the cool stuff I've worked on recently (I update this every mont
 
 _> “Banana!" - Stuart the Minion_
 
-## Github Stats
-[![Divy's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divy-1729)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divy-1729)](https://github.com/anuraghazra/github-readme-stats)
