@@ -44,6 +44,10 @@ I'm a Machine Learning Specialist and Mathematics Major at the University of Tor
 
 This is some of the cool stuff I've worked on recently (I update this every month).
 
+- 📚 [Pytorch Tutorial](https://github.com/Divy-1729/Pytorch-Tutorial)
+   - I felt like I was forgetting how to write Pytorch Code in the era of vibe coding
+   - Had a lot of fun writing this! Shoutout _Daniel Bourke._
+
 - 🗺️ [**CoolDA**](https://github.com/Divy-1729/CoolDA)
   - My first ever kernels in CUDA!
   - I also wrote a short blog-ish post explaining how GPU parallelism blows my mind.
