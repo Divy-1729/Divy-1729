@@ -12,3 +12,6 @@ Here are some facts about me:
 8. I like cats, coffee, music, books and anime.
 9. I love food. I am getting better at using chopsticks. My favorite cuisines are Vietnamese, Indian, and Chinese BBQ.
 10. My hot take is that Zinedine Zidane is the goat.
+
+
+My Github is quite inactive. This is not because I have quit programming, but because I now work full time at my internship coding. To see what I'm upto, visit my [work](https://github.com/dwadhwaniTT) account.
